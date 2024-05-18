@@ -3697,6 +3697,7 @@ input, select, textarea {
 		#nav ul.links {
 			display: -moz-flex;
 			display: -webkit-flex;
+			backdrop-filter: blur(8px);
 			display: -ms-flex;
 			display: flex;
 			-moz-flex-grow: 1;
