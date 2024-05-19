@@ -23,7 +23,7 @@ Take your video translations to the next level with voice cloning! TransSpeaker 
 
 ### User-Friendly Project Website
 
-For a detailed exploration of TransSpeaker's functionalities, comprehensive usage instructions, and potential use cases, visit our project website: [Link to your project website here]
+For a detailed exploration of TransSpeaker's functionalities, comprehensive usage instructions, and potential use cases, visit our project website: [[here](https://coffee-expert.github.io/Intelligent-TransSpeaker-/)].
 
 The website serves as a valuable resource for anyone interested in leveraging the power of AI/ML for multilingual video translation.
 
@@ -43,6 +43,6 @@ We believe in the transformative potential of AI/ML for bridging communication g
 
 ### Acknowledgments
 
-* This project is the fruition of the dedication and expertise of **Kevin Gomes and Team.**
-* We extend our sincere gratitude to **Dr. Diwakar Yagyasen [CS, BBDITM]** for their invaluable guidance and support.
+* This project is the fruition of the dedication and expertise of lead **Abhishek Kevin Gomes and Team.**
+* We extend our sincere gratitude to **Dr. Diwakar Yagyasen [Professor, BBDITM]** for their invaluable guidance and support.
 
