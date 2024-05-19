@@ -1,7 +1,5 @@
 # Intelligent Trans Speaker
-# Major-Project-Group-02
-
-## AI/ML TransSpeaker: Unleash the Power of Emotion-Preserving Multilingual Video Translation
+## Unleash the Power of Emotion-Preserving Multilingual Video Translation for Practical Cross-Cultural Communication
 
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen1.png)
 
@@ -29,12 +27,11 @@ For a detailed exploration of TransSpeaker's functionalities, comprehensive usag
 
 The website serves as a valuable resource for anyone interested in leveraging the power of AI/ML for multilingual video translation.
 
-### A Picture is worth a Thousand Words:
+# A Picture is worth a Thousand Words:
 
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen2.png)
-![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen3.png)
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen4.png)
-
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen3.png)
 
 ### Project Scope
 
