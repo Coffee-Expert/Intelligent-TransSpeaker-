@@ -30,6 +30,8 @@ The website serves as a valuable resource for anyone interested in leveraging th
 # A Picture is worth a Thousand Words:
 
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen2.png)
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen5.png)
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen6.png)
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen4.png)
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen3.png)
 
