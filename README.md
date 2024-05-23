@@ -28,9 +28,18 @@ For a detailed exploration of TransSpeaker's functionalities, comprehensive usag
 The website serves as a valuable resource for anyone interested in leveraging the power of AI/ML for multilingual video translation.
 
 # A Picture is worth a Thousand Words:
+<br>
+
+# Implementation
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen6.png)
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen5.png)
+
+# Interface
+![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen4.png)
+
+# 
 
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen2.png)
-![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen4.png)
 ![alt text](https://github.com/Coffee-Expert/Intelligent-TransSpeaker-/blob/main/images/screen3.png)
 
 ### Project Scope
